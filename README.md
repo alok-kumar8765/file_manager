@@ -13,12 +13,12 @@
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
-![Build](https://img.shields.io/github/actions/workflow/status/alok-kumar8765/file-manager/python-app.yml?branch=main)
-![Stars](https://img.shields.io/github/stars/alok-kumar8765/file-manager)
-![Forks](https://img.shields.io/github/forks/alok-kumar8765/file-manager)
-![Issues](https://img.shields.io/github/issues/alok-kumar8765/file-manager)
-![Last Commit](https://img.shields.io/github/last-commit/alok-kumar8765/file-manager)
-![Downloads](https://img.shields.io/github/downloads/alok-kumar8765/file-manager/total)
+![Build](https://img.shields.io/github/actions/workflow/status/alok-kumar8765/file_manager/python-app.yml?branch=main)
+![Stars](https://img.shields.io/github/stars/alok-kumar8765/file_manager)
+![Forks](https://img.shields.io/github/forks/alok-kumar8765/file_manager)
+![Issues](https://img.shields.io/github/issues/alok-kumar8765/file_manager)
+![Last Commit](https://img.shields.io/github/last-commit/alok-kumar8765/file_manager)
+![Downloads](https://img.shields.io/github/downloads/alok-kumar8765/file_manager/total)
 
 > **Organize your files automatically and efficiently** – from basic sorting to advanced rules, undo, and logging.
 
